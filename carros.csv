@@ -1,0 +1,70 @@
+Marca,Modelo,Año,Cilindraje cc,Caballos de Fuerza,Airbags,Peso KG,Velocidades,Tansmision,Capacidad de baul,Precio
+Mazda,cx - 30,2022,2.0,186,7,1400,6,Automatica,295,91700000
+Renault,Duster,2022,1.3,154,2,1255,6,Mecanica,400,82000000
+Ford,EcoSport,2019,2.0,168,2,1280,6,Automatica,362,70490000
+Nissan,Kicks,2021,1.6,118,6,1540,6,Automatica,432,79990000
+Opel,GrandLand X,2021,1.6,163,6,1455,6,Automatica,514,109000000
+Chevrolet,Tracker,2020,1.2,132,6,1200,5,Mecanica,392,69990000
+Kia,Stonic,2021,1.0,118,6,1225,6,Mecanica,352,83990000
+Volkwagen,Nivus,2021,1.0,114,6,1199,6,Mecanica,415,85990000
+Suzuki,Jimny,2021,1.5,100,2,1090,5,Mecanica,85,87680000
+Toyota,RAV,2021,2.5,176,7,1680,6,Automatica,580,141000000
+Toyota,Hilux,2021,2.8,200,7,2006,6,Automatica,1300,146000000
+BMW,128ti,2021,2.0,245,6,1520,8,Automatica,380,139900000
+Suzuki,Swift,2021,1.2,89,6,865,5,Mecanica,242,64990000
+Ford,Bronco,2021,2.0,250,9,1573,8,Automatica,833,154990000
+Ford,Explorer,2021,3.0,400,8,2130,10,Automatica,515,219990000
+Nissan,March,2021,1.6,106,6,1377,5,Mecanica,230,52990000
+Honda,RHRV,2021,1.8,140,4,1312,7,Mecanica,437,97490000
+Jac,T8,2021,2.0,136,2,2755,6,Mecanica,1304,97990000
+Audi,Q7,2021,3.0,340,6,2230,8,Automatica,865,289900000
+Audi,Q2,2021,1.4,150,6,1225,8,Automatica,405,121990000
+Peugeot,3008,2021,1.6,165,6,1404,6,Automatica,591,105990000
+Ford,Ranger,2021,2.0,210,6,2398,10,Automatica,1359,209990000
+Seat,Ateca TSI,2021,1.4,150,7,1250,8,Automatica,510,119990000
+Nissan,Frontier,2021,2.5,188,6,2298,7,Automatica,1299,164990000
+Renault,Koleos,2021,2.5,170,6,1540,7,Automatica,942,131730000
+Seat,Tarraco,2021,1.4,150,6,1750,6,Automatica,760,132990000
+Chevrolet,Joy,2021,1.4,97,2,1045,5,Mecanica,500,40990000
+Mercedes Benz,GLA,2021,1.3,161,7,1485,7,Automatica,435,156900000
+Volvo,XC-40,2020,1.5,180,7,2150,7,Automatica,460,209990000
+BMW,Serie 2,2020,1.5,140,6,1450,7,Automatica,430,141900000
+Land Rover,Defender,2021,2.0,240,7,2323,8,Automatica,600,330900000
+Chevrolet,Onix,2021,1.0,115,6,1087,6,Automatica,470,64490000
+Renault,Logan,2020,1.6,111,4,1098,6,Mecanica,510,56990000
+Nissan,Sentra,2021,2.0,145,6,1330,6,Automatica,466,74990000
+Toyota,Corolla,2021,1.8,122,7,1370,6,Automatica,470,82800000
+Volkwagen,T-Cross,2021,1.6,110,6,1390,6,Automatica,373,83990000
+Renault,Sandero,2020,1.6,111,4,1082,5,Mecanica,320,45990000
+Renault,Kwid,2020,1.0,66,2,760,5,Mecanica,290,35490000
+Kia,Cerato,2019,1.6,130,6,1281,6,Automatica,434,67990000
+Fiat,Mobi,2019,1.0,68,2,885,5,Mecanica,220,35990000
+chevrolet,Spark,2019,1.2,80,2,955,5,Mecanica,192,39900000
+Kia,Picanto,2019,1.2,83,2,894,5,Mecanica,255,42890000
+Maserati,Levante,2020,3.0,430,6,2170,8,Automatica,580,390000000
+Audi,Q8,2021,3.0,340,6,2170,8,Automatica,605,269900000
+Mazda,cx - 5,2020,2.5,228,7,1300,6,Automatica,470,109300000
+Mazda,3,2020,1.5,109,6,1045,6,Automatica,220,58850000
+Mercedes Benz,GLE 450,2020,3.0,362,7,2220,9,Automatica,655,280000000
+Chevrolet,Captiva,2021,1.5,148,4,1500,8,Automatica,429,96990000
+Hyundai,HB20X,2021,1.6,121,4,1078,5,Mecanica,300,63990000
+Citroen,C3,2021,1.2,110,6,1130,6,Automatica,300,74990000
+Jeep,wrangler,2019,3.6,286,4,1883,8,Mecanica,192,169900000
+Ford,Edge,2019,2.7,335,6,2066,8,Automatica,602,160000000
+Volkwagen,Tiguan,2019,2.0,180,6,1568,6,Automatica,760,104990000
+Toyota,Yaris,2021,1.5,106,7,1090,7,Automatica,473,69200000
+Mercedes Benz,Clase E,2021,2.0,300,7,2110,8,Automatica,540,225900000
+Honda,WRV,2021,1.5,118,6,1112,5,Mecanica,363,67990000
+Renault,Stepway,2020,1.6,111,4,1540,5,Mecanica,320,52290000
+Honda,Civic,2020,2.0,151,6,1275,6,Automatica,525,87990000
+Mazda,6,2019,2.5,228,6,1611,6,Automatica,429,120800000
+Nissan,Versa,2020,1.6,118,6,1179,6,Automatica,482,58990000
+Land Rover,Range Rover,2020,2.0,249,9,1845,9,Automatica,591,225400000
+Honda,HRV,2019,1.8,141,6,1357,6,Automatica,437,84990000
+Hyundai,Tucson,2019,2.0,155,6,1531,6,Automatica,488,105990000
+Volkwagen,Virtus,2019,1.6,110,4,1165,5,Mecanica,521,50990000
+Chevrolet,Beat,2019,1.2,86,2,957,5,Mecanica,390,35990000
+Mahindra,KUV100,2019,1.2,81,2,1190,5,Mecanica,243,37990000
+Jac,S2,2019,1.3,97,2,1200,5,Mecanica,190,36990000
+Renault,Captur,2021,2.0,143,4,1337,6,Automatica,425,79300000
+Chevrolet,Equinox,2021,1.5,170,6,1573,6,Automatica,846,128990000
